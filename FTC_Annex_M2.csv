@@ -1,0 +1,9 @@
+S/N,Allocation name,startDate,endDate,vestingType,vestingEvery,vestingFrequency,rate,tokenAmount
+1,Community 1,2025-06-01 00:00:00,,cliff,,,,1000000
+2,Community 2,2025-07-01 00:00:00,2026-06-01 00:00:00,linear,2,monthly,,50000
+3,Community 3,2025-08-01 00:00:00,2027-06-01 00:00:00,linear,1,monthly,,25000
+4,Community 4,2025-09-01 00:00:00,2028-06-01 00:00:00,linear,1,quarterly,,12500
+5,Advisors,2025-06-01 00:00:00,,cliff,,,,100000
+6,Team 1,2025-06-01 00:00:00,2027-06-01 00:00:00,inflationary,1,weekly,0.05,100000
+7,Team 2,2025-07-01 00:00:00,2026-06-01 00:00:00,linear,1,monthly,,50000
+8,Contributors,2025-08-01 00:00:00,2027-06-01 00:00:00,deflationary,1,weekly,0.1,100000
